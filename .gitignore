@@ -1,0 +1,12 @@
+# Stitch design mockups and merge tooling (local only)
+.stitch/
+
+# Backup of the old index before the Stitch v2 port
+index_backup.html
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+node_modules/
+.netlify/
